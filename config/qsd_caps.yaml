@@ -1,0 +1,12 @@
+# 真机
+platformName: Android
+platformVersion: 7.0.0
+deviceName: 192.168.13.101:5555
+appname: com.sidechef.sidechef
+noReset: False
+noSign: True
+resetKeyboard: True
+appPackage: com.sidechef.sidechef
+appActivity: com.sidechef.sidechef.activity.SplashActivity
+ip: 127.0.0.1
+port: 4723
