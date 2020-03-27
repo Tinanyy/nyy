@@ -21,9 +21,12 @@ import time
 class SendEmail():
     def send_email(self, new_report):
         # 读取测试报告中的内容作为邮件的内容
-        with open(new_report, 'r', encoding='utf8') as f:
-            mail_body = f.read()
-            print(mail_body)
+        # with open(new_report, 'r', encoding='utf8') as f:
+        #     mail_body = f.read()
+        #     print(mail_body)
+     with open(new_report, 'r', encoding='utf8') as f:
+        mail_body = f.read()
+        print(mail_body)
         # 发件人地址
         send_addr = 'li1280208624@163.com'
         # 收件人地址
@@ -59,6 +62,7 @@ class SendEmail():
         # 最新的测试报告地址
         the_last_report_address = os.path.join(test_report, the_last_report)
         return the_last_report_address
+
     # def new_report(test_report):
     #     lists = os.listdir(test_report)  # 列出目录的下所有文件和文件夹保存到lists
     #     lists.sort(key=lambda fn: os.path.getmtime(test_report + "/" + fn))  # 按时间排序 win

@@ -1716,3 +1716,524 @@
 2020-03-25 13:04:04,845 loginView.py[line:37] INFO click loginBtn
 2020-03-25 13:04:05,360 loginView.py[line:39] INFO login finished!
 2020-03-25 13:04:05,360 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 13:59:05,339 run_login.py[line:32] INFO start run testcase...
+2020-03-25 13:59:05,340 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 13:59:05,348 desired_caps.py[line:32] INFO start app...
+2020-03-25 13:59:25,110 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-25 13:59:25,110 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 13:59:25,119 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 13:59:26,169 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 13:59:40,174 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 13:59:40,175 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-25 13:59:41,464 loginView.py[line:34] INFO password is: 123
+2020-03-25 13:59:42,501 loginView.py[line:37] INFO click loginBtn
+2020-03-25 13:59:43,031 loginView.py[line:39] INFO login finished!
+2020-03-25 13:59:43,031 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 13:59:49,185 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 13:59:49,195 desired_caps.py[line:32] INFO start app...
+2020-03-25 14:00:09,721 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-25 14:00:09,721 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 14:00:09,726 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 14:00:10,738 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 14:00:20,850 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 14:00:20,851 loginView.py[line:31] INFO username is:abcd.abcd.com
+2020-03-25 14:00:21,911 loginView.py[line:34] INFO password is: 123456ABC
+2020-03-25 14:00:22,495 loginView.py[line:37] INFO click loginBtn
+2020-03-25 14:00:23,089 loginView.py[line:39] INFO login finished!
+2020-03-25 14:00:23,089 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 14:00:29,302 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 14:00:29,312 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:27:33,548 run_login.py[line:32] INFO start run testcase...
+2020-03-25 17:27:33,548 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:27:33,555 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:27:51,357 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-25 17:27:51,358 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 17:27:51,399 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 17:27:51,912 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 17:28:05,003 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 17:28:05,004 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-25 17:28:06,084 loginView.py[line:34] INFO password is: 123
+2020-03-25 17:28:07,135 loginView.py[line:37] INFO click loginBtn
+2020-03-25 17:28:07,654 loginView.py[line:39] INFO login finished!
+2020-03-25 17:28:07,655 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 17:28:14,028 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:28:14,039 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:28:35,964 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-25 17:28:35,966 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 17:28:35,971 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 17:28:36,716 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 17:28:53,184 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 17:28:53,185 loginView.py[line:31] INFO username is:abcd.abcd.com
+2020-03-25 17:28:54,660 loginView.py[line:34] INFO password is: 123456ABC
+2020-03-25 17:28:55,743 loginView.py[line:37] INFO click loginBtn
+2020-03-25 17:28:56,305 loginView.py[line:39] INFO login finished!
+2020-03-25 17:28:56,305 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 17:29:04,509 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:29:04,539 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:29:26,735 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-25 17:29:26,735 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 17:29:26,738 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 17:29:27,745 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 17:29:43,359 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 17:29:43,359 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-25 17:29:44,576 loginView.py[line:34] INFO password is: 123456ABC
+2020-03-25 17:29:45,633 loginView.py[line:37] INFO click loginBtn
+2020-03-25 17:29:46,156 loginView.py[line:39] INFO login finished!
+2020-03-25 17:29:46,156 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 17:35:04,657 run_login.py[line:32] INFO start run testcase...
+2020-03-25 17:35:04,657 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:35:04,660 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:35:23,700 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-25 17:35:23,701 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 17:35:23,709 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 17:35:25,048 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 17:35:37,877 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 17:35:37,877 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-25 17:35:39,061 loginView.py[line:34] INFO password is: 123
+2020-03-25 17:35:40,124 loginView.py[line:37] INFO click loginBtn
+2020-03-25 17:35:40,657 loginView.py[line:39] INFO login finished!
+2020-03-25 17:35:40,657 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 17:35:46,827 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:35:46,837 desired_caps.py[line:32] INFO start app...
+2020-03-25 17:36:06,464 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-25 17:36:06,464 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-25 17:36:06,469 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-25 17:36:07,484 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-25 17:36:18,636 loginView.py[line:30] INFO ============login_action==============
+2020-03-25 17:36:18,637 loginView.py[line:31] INFO username is:abcd.abcd.com
+2020-03-25 17:36:19,734 loginView.py[line:34] INFO password is: 123456ABC
+2020-03-25 17:36:20,967 loginView.py[line:37] INFO click loginBtn
+2020-03-25 17:36:21,630 loginView.py[line:39] INFO login finished!
+2020-03-25 17:36:21,631 myunit.py[line:15] INFO ======tearDown=====
+2020-03-25 17:36:28,369 myunit.py[line:10] INFO ======setUp=========
+2020-03-25 17:36:28,378 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:18:28,097 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:18:28,104 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:18:47,742 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-26 11:18:47,742 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 11:18:47,788 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 11:18:48,801 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 11:18:58,309 loginView.py[line:30] INFO ============login_action==============
+2020-03-26 11:18:58,309 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-26 11:18:59,400 loginView.py[line:34] INFO password is: 123
+2020-03-26 11:19:00,490 loginView.py[line:37] INFO click loginBtn
+2020-03-26 11:19:01,028 loginView.py[line:39] INFO login finished!
+2020-03-26 11:19:01,028 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 11:19:07,314 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:19:07,323 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:19:27,789 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-26 11:19:27,790 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 11:19:27,795 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 11:19:28,653 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 11:19:38,187 loginView.py[line:30] INFO ============login_action==============
+2020-03-26 11:19:38,187 loginView.py[line:31] INFO username is:abcd.abcd.com
+2020-03-26 11:19:39,267 loginView.py[line:34] INFO password is: 123456ABC
+2020-03-26 11:19:39,856 loginView.py[line:37] INFO click loginBtn
+2020-03-26 11:19:40,449 loginView.py[line:39] INFO login finished!
+2020-03-26 11:19:40,449 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 11:19:46,586 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:19:46,596 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:20:06,183 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 11:20:06,184 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 11:20:06,193 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 11:20:07,199 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 11:20:08,065 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 11:33:44,078 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:33:44,083 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:34:02,616 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-26 11:34:02,616 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 11:34:02,623 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 11:34:03,862 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 11:34:20,465 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 11:34:20,466 loginView.py[line:30] INFO ============login_action==============
+2020-03-26 11:34:20,466 loginView.py[line:31] INFO username is:abcd@abcd.com
+2020-03-26 11:34:22,533 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 11:34:28,949 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:34:28,964 desired_caps.py[line:32] INFO start app...
+2020-03-26 11:34:52,832 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-26 11:34:52,832 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 11:34:52,837 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 11:34:54,336 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 11:35:03,367 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 11:35:05,435 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 11:35:15,558 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 11:35:15,567 desired_caps.py[line:32] INFO start app...
+2020-03-26 14:48:08,552 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 14:48:08,558 desired_caps.py[line:32] INFO start app...
+2020-03-26 14:48:26,626 test_login.py[line:11] INFO =======test_login_error=========
+2020-03-26 14:48:26,626 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 14:48:26,641 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 14:48:27,365 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 14:48:36,942 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 14:48:44,507 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 14:48:44,516 desired_caps.py[line:32] INFO start app...
+2020-03-26 14:49:04,314 test_login.py[line:19] INFO =======test_login_error=========
+2020-03-26 14:49:04,315 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 14:49:04,320 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 14:49:05,071 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 14:49:13,798 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 14:49:21,812 myunit.py[line:10] INFO ======setUp=========
+2020-03-26 14:49:21,823 desired_caps.py[line:32] INFO start app...
+2020-03-26 14:49:41,057 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 14:49:41,058 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 14:49:41,071 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 14:49:41,798 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 14:49:46,914 myunit.py[line:15] INFO ======tearDown=====
+2020-03-26 15:07:12,912 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:07:12,916 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:07:30,424 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 15:07:30,425 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:07:30,435 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:07:31,171 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:07:39,584 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:07:47,911 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:07:47,921 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:08:07,882 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 15:08:07,883 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:08:07,892 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:08:08,573 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:08:16,901 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:08:24,921 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:08:24,933 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:08:44,186 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 15:08:44,186 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:08:44,197 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:08:44,719 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:08:49,753 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:09:29,200 run_login.py[line:32] INFO start run testcase...
+2020-03-26 15:09:29,201 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:09:29,204 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:09:46,577 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 15:09:46,577 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:09:46,590 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:09:47,314 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:09:56,414 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:10:02,476 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:10:02,481 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:10:19,683 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 15:10:19,683 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:10:19,688 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:10:20,420 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:10:29,573 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:10:37,530 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:10:37,543 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:10:56,402 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 15:10:56,402 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:10:56,415 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:10:57,181 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:11:02,917 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:17:50,150 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:17:50,154 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:18:07,330 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 15:18:07,330 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:18:07,343 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:18:07,791 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:18:14,914 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:18:22,264 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:18:22,274 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:18:41,544 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 15:18:41,545 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:18:41,548 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:18:42,251 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:18:48,787 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:18:56,986 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:18:57,000 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:19:16,327 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 15:19:16,327 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:19:16,335 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:19:17,106 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:19:22,867 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:19:49,372 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:19:49,376 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:20:06,114 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 15:20:06,114 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:20:06,121 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:20:06,817 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:20:11,806 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:20:19,521 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:20:19,529 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:20:38,534 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 15:20:38,535 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:20:38,539 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:20:39,154 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:20:44,212 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 15:20:52,249 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 15:20:52,263 desired_caps.py[line:32] INFO start app...
+2020-03-26 15:21:10,784 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 15:21:10,784 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 15:21:10,791 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 15:21:11,584 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 15:21:16,554 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:08:26,461 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:08:26,468 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:08:27,578 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:08:27,583 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:08:28,593 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:08:28,597 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:10:04,505 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:10:04,509 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:10:25,635 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 17:10:25,635 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:10:25,639 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:10:26,309 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:10:31,571 common_fun.py[line:63] INFO get png screenshot
+2020-03-26 17:13:14,831 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:13:14,834 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:13:33,969 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 17:13:33,969 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:13:33,976 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:13:34,581 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:14:13,048 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 17:14:19,285 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:14:25,355 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:14:25,360 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:14:43,658 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 17:14:43,659 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:14:43,666 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:14:44,297 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:14:58,296 loginView.py[line:33] INFO ============login_action==============
+2020-03-26 17:14:58,296 loginView.py[line:34] INFO username is:abcd.abcd.com
+2020-03-26 17:14:59,454 loginView.py[line:37] INFO password is: 123456ABC
+2020-03-26 17:15:00,552 loginView.py[line:40] INFO click loginBtn
+2020-03-26 17:15:01,079 loginView.py[line:42] INFO login finished!
+2020-03-26 17:15:03,563 loginView.py[line:48] ERROR login fail
+2020-03-26 17:15:03,563 common_fun.py[line:63] INFO get login fail screenshot
+2020-03-26 17:15:06,853 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:15:13,023 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:15:13,035 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:15:33,388 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 17:15:33,390 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:15:33,396 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:15:33,893 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:16:12,341 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 17:16:16,405 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:20:02,030 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:20:02,035 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:20:19,683 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-26 17:20:19,683 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:20:19,690 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:20:20,407 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:20:42,522 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 17:20:48,736 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:20:54,992 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:20:54,998 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:21:14,401 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-26 17:21:14,402 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:21:14,406 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:21:15,017 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:21:58,614 myunit.py[line:16] INFO ======tearDown=====
+2020-03-26 17:22:04,618 myunit.py[line:11] INFO ======setUp=========
+2020-03-26 17:22:04,622 desired_caps.py[line:32] INFO start app...
+2020-03-26 17:22:22,094 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-26 17:22:22,095 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-26 17:22:22,099 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-26 17:22:24,440 common_fun.py[line:24] INFO no skipBtn
+2020-03-26 17:22:24,440 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-26 17:22:26,687 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-26 17:22:32,930 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-26 17:22:39,198 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 11:42:46,632 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 11:42:46,636 desired_caps.py[line:32] INFO start app...
+2020-03-27 11:43:05,132 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 11:43:05,132 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 11:43:05,182 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 11:43:05,899 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 11:43:43,864 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 11:43:50,071 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 11:43:56,862 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 11:43:56,870 desired_caps.py[line:32] INFO start app...
+2020-03-27 11:44:22,719 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 11:44:22,719 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 11:44:22,722 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 11:44:24,759 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 11:44:24,759 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 11:44:27,729 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 11:44:33,934 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 11:44:40,158 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 11:44:46,413 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 11:44:46,427 desired_caps.py[line:32] INFO start app...
+2020-03-27 11:45:09,546 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 11:45:09,546 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 11:45:09,552 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 11:45:10,934 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 11:45:47,823 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 13:35:25,182 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 13:35:25,190 desired_caps.py[line:32] INFO start app...
+2020-03-27 13:35:54,525 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 13:35:54,525 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 13:35:54,548 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 13:36:00,522 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 13:36:00,536 desired_caps.py[line:32] INFO start app...
+2020-03-27 13:36:17,171 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 13:36:17,177 desired_caps.py[line:32] INFO start app...
+2020-03-27 13:36:51,122 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 13:36:51,122 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 13:36:51,144 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 13:36:53,366 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 13:36:53,366 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 13:36:56,328 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 13:37:02,620 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 13:37:08,828 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 13:37:15,023 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 13:37:15,035 desired_caps.py[line:32] INFO start app...
+2020-03-27 13:37:37,561 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 13:37:37,562 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 13:37:37,567 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 13:37:39,689 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 13:38:16,172 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 13:38:22,553 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 13:38:22,561 desired_caps.py[line:32] INFO start app...
+2020-03-27 13:38:49,102 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 13:38:49,103 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 13:38:49,107 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 13:38:52,767 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 13:38:52,767 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 13:38:55,130 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 13:39:01,542 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 13:39:07,830 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:00:46,914 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:00:46,921 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:01:14,187 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 14:01:14,187 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:01:14,191 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:01:19,985 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 14:01:19,986 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:01:22,420 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 14:01:28,733 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 14:01:34,930 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:01:41,270 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:01:41,279 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:02:08,588 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 14:02:08,588 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:02:08,592 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:02:13,125 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:02:41,627 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:02:47,775 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:02:47,781 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:03:07,376 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 14:03:07,376 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:03:07,381 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:03:08,549 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:03:46,464 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 14:03:50,505 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:07:46,027 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:07:46,043 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:08:08,687 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 14:08:08,687 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:08:08,695 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:08:09,962 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:08:53,176 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:08:59,631 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:08:59,640 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:09:23,689 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 14:09:23,689 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:09:23,695 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:09:24,832 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:10:00,645 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 14:10:06,802 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 14:10:06,810 desired_caps.py[line:32] INFO start app...
+2020-03-27 14:10:27,866 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 14:10:27,867 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 14:10:27,873 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 14:10:28,675 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 14:11:08,324 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:00:51,993 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:00:51,998 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:01:10,770 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 15:01:10,771 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:01:10,800 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:01:17,118 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:01:17,131 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:01:43,217 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 15:01:43,218 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:01:43,221 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:01:49,318 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:01:49,326 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:02:15,608 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 15:02:15,608 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:02:15,613 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:05:16,004 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:05:16,008 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:05:39,585 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 15:05:39,585 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:05:39,587 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:05:45,826 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:05:45,832 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:06:05,920 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 15:06:05,920 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:06:05,921 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:06:12,098 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:06:12,106 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:06:37,975 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 15:06:37,976 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:06:37,979 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:11:41,194 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:11:41,198 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:11:59,411 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 15:11:59,412 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:11:59,420 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:12:00,762 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:12:38,712 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 15:12:44,946 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:12:50,969 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:12:50,978 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:13:15,915 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 15:13:15,916 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:13:15,920 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:13:18,668 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 15:13:18,670 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:13:21,087 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 15:13:27,319 common_fun.py[line:41] INFO no noGoogleBtn
+2020-03-27 15:13:36,327 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:13:43,760 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:13:43,790 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:14:03,342 test_login.py[line:27] INFO ==========test_login_pass========
+2020-03-27 15:14:03,344 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:14:03,355 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:14:04,228 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:14:17,118 loginView.py[line:33] INFO ============login_action==============
+2020-03-27 15:14:17,119 loginView.py[line:34] INFO username is:abcd@abcd.com
+2020-03-27 15:14:18,240 loginView.py[line:37] INFO password is: 123456ABC
+2020-03-27 15:14:19,252 loginView.py[line:40] INFO click loginBtn
+2020-03-27 15:14:19,793 loginView.py[line:42] INFO login finished!
+2020-03-27 15:14:22,341 loginView.py[line:48] ERROR login fail
+2020-03-27 15:14:22,343 common_fun.py[line:63] INFO get login fail screenshot
+2020-03-27 15:14:44,890 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:43:25,792 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:43:25,797 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:43:45,703 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 15:43:45,705 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:43:45,716 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:43:46,427 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:43:47,434 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:43:53,535 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:43:53,540 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:44:18,563 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 15:44:18,564 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:44:18,567 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:44:21,196 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 15:44:21,200 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:44:23,727 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 15:44:23,727 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:44:29,808 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:44:29,814 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:49:31,910 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:49:31,914 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:49:57,941 test_login.py[line:11] INFO =======test_login_error01=========
+2020-03-27 15:49:57,941 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:49:57,945 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:50:00,491 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 15:50:00,491 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:50:02,721 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 15:50:02,721 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:50:08,821 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:50:08,829 desired_caps.py[line:36] INFO start app...
+2020-03-27 15:50:33,919 test_login.py[line:19] INFO =======test_login_error02=========
+2020-03-27 15:50:33,920 common_fun.py[line:78] INFO ========get_csv_data========
+2020-03-27 15:50:33,923 common_fun.py[line:19] INFO =========check skipBtn=============
+2020-03-27 15:50:36,860 common_fun.py[line:24] INFO no skipBtn
+2020-03-27 15:50:36,860 common_fun.py[line:29] INFO =========check skipConfirmBtn=============
+2020-03-27 15:50:39,283 common_fun.py[line:34] INFO no skipConfirmBtn
+2020-03-27 15:50:39,283 myunit.py[line:16] INFO ======tearDown=====
+2020-03-27 15:50:45,441 myunit.py[line:11] INFO ======setUp=========
+2020-03-27 15:50:45,450 desired_caps.py[line:36] INFO start app...

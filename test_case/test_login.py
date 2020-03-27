@@ -5,10 +5,10 @@ import logging
 
 
 class LoginTest(StartEnd):
-    csv_file = '../data/account.csv'
+    csv_file = './data/account.csv'
 
     def test_loginError01(self):
-        logging.info('=======test_login_error=========')
+        logging.info('=======test_login_error01=========')
         l=LoginView(self.driver)
         data = l.get_csv_data(self.csv_file,1)
 
@@ -16,7 +16,7 @@ class LoginTest(StartEnd):
        # self.assertTrue(l.check_loginStatus())
 
     def test_loginError02(self):
-        logging.info('=======test_login_error=========')
+        logging.info('=======test_login_error02=========')
         l=LoginView(self.driver)
         data = l.get_csv_data(self.csv_file,2)
 

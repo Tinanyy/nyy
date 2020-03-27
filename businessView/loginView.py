@@ -12,19 +12,22 @@ class LoginView(Common):
     username_type = (By.ID, 'com.sidechef.sidechef:id/et_login_username')
     password_type = (By.ID, 'com.sidechef.sidechef:id/et_login_password')
     loginBtn = (By.ID, 'com.sidechef.sidechef:id/btn_login_signin')
+    loginConfirmBtn = (By.ID, 'com.android.packageinstaller:id/permission_allow_button')
 
     # 退出操作相关元素
     button_myself = (By.ID, 'com.yiqi.hj:id/rb_tab_four')
     SeettingButton = (By.ID, 'com.yiqi.hj:id/setting')
     logoutBtn = (By.ID, 'com.yiqi.hj:id/cCenterTextId')
 
+
     def login_action(self, username, password):
         self.check_skipBtn()
         self.check_skipConfirmBtn()
-        time.sleep(4)
+        time.sleep(8)
         self.check_noGoogle()
+        self.driver.implicity_wait(5)
         self.driver.find_element(*self.loginLanding).click()
-        time.sleep(2)
+        self.driver.implicity_wait(5)
         self.check_noGoogle()
 
         logging.info('============login_action==============')
@@ -37,6 +40,17 @@ class LoginView(Common):
         logging.info('click loginBtn')
         self.driver.find_element(*self.loginBtn).click()
         logging.info('login finished!')
+
+
+        try:
+            self.driver.find_element(*self.loginConfirmBtn).click()
+        except NoSuchElementException:
+            logging.error('login fail')
+            self.getScreenShot('login fail')
+            return False
+
+
+
 
     def logout_action(self):
         logging.info('=========logout_action==========')
