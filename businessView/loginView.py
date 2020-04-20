@@ -14,20 +14,15 @@ class LoginView(Common):
     loginBtn = (By.ID, 'com.sidechef.sidechef:id/btn_login_signin')
     loginConfirmBtn = (By.ID, 'com.android.packageinstaller:id/permission_allow_button')
 
-    # 退出操作相关元素
-    button_myself = (By.ID, 'com.yiqi.hj:id/rb_tab_four')
-    SeettingButton = (By.ID, 'com.yiqi.hj:id/setting')
-    logoutBtn = (By.ID, 'com.yiqi.hj:id/cCenterTextId')
-
 
     def login_action(self, username, password):
         self.check_skipBtn()
         self.check_skipConfirmBtn()
-        time.sleep(8)
+        time.sleep(3)
         self.check_noGoogle()
-        self.driver.implicity_wait(5)
+        time.sleep(2)
         self.driver.find_element(*self.loginLanding).click()
-        self.driver.implicity_wait(5)
+        time.sleep(3)
         self.check_noGoogle()
 
         logging.info('============login_action==============')
