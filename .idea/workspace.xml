@@ -1,14 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e1e9c1a7-f9fe-4094-bdc4-de67ff0d7e82" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Common/desired_caps.py" beforeDir="false" afterPath="$PROJECT_DIR$/Common/desired_caps.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/businessView/loginView.py" beforeDir="false" afterPath="$PROJECT_DIR$/businessView/loginView.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/logs/runlog.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/runlog.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_case/test_login.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_case/test_login.py" afterDir="false" />
-    </list>
+    <list default="true" id="e1e9c1a7-f9fe-4094-bdc4-de67ff0d7e82" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -445,7 +438,7 @@
       <workItem from="1587360805085" duration="1782000" />
       <workItem from="1587362620107" duration="1991000" />
       <workItem from="1587365517482" duration="325000" />
-      <workItem from="1587365872500" duration="1283000" />
+      <workItem from="1587365872500" duration="1992000" />
     </task>
     <servers />
   </component>
