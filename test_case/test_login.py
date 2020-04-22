@@ -5,7 +5,7 @@ import logging
 
 
 class LoginTest(StartEnd):
-    csv_file = '../data/account.csv'
+    csv_file = './data/account.csv'
 
     def test_loginError01(self):
         logging.info('=======test_login_error01=========')

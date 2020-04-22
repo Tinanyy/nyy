@@ -15,12 +15,12 @@ def send_mail(report):
     print('email has sent out')
 
 if __name__=='__main__':
-    test_dir= '../test_case'
+    test_dir= 'test_case'
 #定义测试用例的目录为当前目录
     suit = unittest.defaultTestLoader.discover(test_dir, pattern='test_*.py')
 #获取当前日期和时间
     now_time=time.strftime("%Y-%m-%d %H_%M_%S")
-    html_report='../report/'+ now_time +'report.html'
+    html_report='./report/'+ now_time +'report.html'
     print(html_report)
     fp=open(html_report,'wb')
 #调用htmltsetrunner,运行测试用例
